@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "991746791561",
+    "project_id": "hrandhi-cmsc5303-mobileapps",
+    "storage_bucket": "hrandhi-cmsc5303-mobileapps.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991746791561:android:a09ed03e601fa93cb04e58",
+        "android_client_info": {
+          "package_name": "edu.uco.hrandhi.cmsc5303.lesson3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991746791561-ns9dbghi9iiva46jlbm0avvv671eccak.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBg4Tff5KYliw_aA-3wVn34EUNluqvxZug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991746791561-ns9dbghi9iiva46jlbm0avvv671eccak.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "991746791561-svphlsd8l0j01kv61cqaqjds47d5uc30.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "edu.uco.hrandhi.cmsc5303.lesson3"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
